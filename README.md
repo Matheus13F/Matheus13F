@@ -7,7 +7,6 @@
  <a href="https://app.rocketseat.com.br/me/matheus-ferreira-1578571009" target="blank"><img src="https://img.shields.io/badge/-Rocketseat-41356b?style=flat-square&logo=Rocketseat&logoColor=white"></a>
 </p>
 
-<img align="right" src="https://raw.githubusercontent.com/Gabysx/Gabysx/main/image.png" width="350"/>
 
 Jedi salute, Welcome to my **Github profile!**
 I'm a Software Developer with focus on Front End, based in Brazil 👽<br>
@@ -22,7 +21,6 @@ I'm belive that coding is more than just writting coding lines, coding is about 
 <img src="https://img.shields.io/badge/-CSS3-007acc.svg?logo=Css3&style=flat-square" />
 <img src="https://img.shields.io/badge/-Javascript-FFD700.svg?logo=Javascript&style=flat-square&logoColor=white" />
 <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat-square" />
-</p>
 <img src="https://img.shields.io/badge/-Typescript-61DAFB?logo=typescript&logoColor=white&style=flat-square" />
 </p>
 
