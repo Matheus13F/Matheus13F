@@ -30,8 +30,7 @@ I'm belive that coding is more than just writting coding lines, coding is about 
 
 <img src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"  />
 <img src="https://img.shields.io/badge/-RxJS-A020F0?style=flat-square&logo=Redux&logoColor=white"  />
-
-
+<img src="https://img.shields.io/badge/-Flutter-61DAFB?logo=fluter&logoColor=white&style=flat-square" />
 </p>
 
 <p align="center">
