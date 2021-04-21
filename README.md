@@ -1,16 +1,42 @@
-### Hi there 👋
+# Hi there 👋 <br> I'm Matheus
 
-<!--
-**Matheus13F/Matheus13F** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<a href="mailto:matheus-goes13@hotmail.com"> <img src="https://img.shields.io/badge/-Email-D14836.svg?logo=gmail&style=plastic&logoColor=white" /> </a>
+<a href="https://www.linkedin.com/in/matheus13f/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-007acc.svg?logo=linkedin&style=plastic"></a>
+<a href="https://www.instagram.com/oi_matthew/" target="blank"><img src="https://img.shields.io/badge/-Instagram-F73776.svg?logo=instagram&style=plastic&logoColor=white"></a>
+ <a href="https://app.rocketseat.com.br/me/matheus-ferreira-1578571009" target="blank"><img src="https://img.shields.io/badge/-Rocketseat-41356b?style=flat-square&logo=Rocketseat&logoColor=white"></a>
+</p>
 
-Here are some ideas to get you started:
+<img align="right" src="https://raw.githubusercontent.com/Gabysx/Gabysx/main/image.png" width="350"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Jedi salute, Welcome to my **Github profile!**
+I'm a Software Developer with focus on Front End, based in Brazil 👽<br>
+Passionate of the best web & mobile development technologies, 
+I'm belive that coding is more than just writting coding lines, coding is about fixing problems! Which is why I seek to develop and improve my Hard and Soft Skills, and by consequence help people, I am open to challenges for my evolution as a Developer.
+
+---
+<h3 align="center">🚀 Programming languages and tools</h3>
+<p align="center">
+
+<img src="https://img.shields.io/badge/-HTML5-ec6231.svg?logo=Html5&style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/-CSS3-007acc.svg?logo=Css3&style=flat-square" />
+<img src="https://img.shields.io/badge/-Javascript-FFD700.svg?logo=Javascript&style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat-square" />
+</p>
+<img src="https://img.shields.io/badge/-Typescript-61DAFB?logo=typescript&logoColor=white&style=flat-square" />
+</p>
+
+
+<h3 align="center">📚 I currently wanna learn</h3>
+<p align="center">
+
+<img src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"  />
+<img src="https://img.shields.io/badge/-RxJS-A020F0?style=flat-square&logo=Redux&logoColor=white"  />
+
+
+</p>
+
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus13f&layout=compact"/> 
+
+
