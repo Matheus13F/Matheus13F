@@ -10,8 +10,9 @@
 
 Jedi salute, Welcome to my **Github profile!**
 I'm a Software Developer with focus on Front End, based in Brazil 👽<br>
-Passionate of the best web & mobile development technologies, 
+Passionate of the best web & mobile development technologies,
 I'm belive that coding is more than just writting coding lines, coding is about fixing problems! Which is why I seek to develop and improve my Hard and Soft Skills, and by consequence help people, I am open to challenges for my evolution as a Developer.
+Currently working as a Frontend Software Engineer for a US company based in New York.
 
 ---
 <h3 align="center">🚀 Programming languages and tools</h3>
