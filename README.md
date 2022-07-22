@@ -23,7 +23,7 @@ Currently working as a Frontend Software Engineer for a US company based in New 
 <img src="https://img.shields.io/badge/-Javascript-FFD700.svg?logo=Javascript&style=flat-square&logoColor=white" />
 <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat-square" />
 <img src="https://img.shields.io/badge/-Typescript-61DAFB?logo=typescript&logoColor=white&style=flat-square" />
-<img src="https://img.shields.io/badge/-Nextjs-61DAFB?logo=nextjs&logoColor=green&style=flat-square" />
+<img src="https://img.shields.io/badge/-NextJS-lightgrey" />
 <img src="https://img.shields.io/badge/-RxJS-A020F0?style=flat-square&logo=Redux&logoColor=white"  />
 </p>
 
