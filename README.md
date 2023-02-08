@@ -28,7 +28,7 @@ Currently working as a Frontend Software Engineer for a US company based in New 
 </p>
 
 
-<h3 align="center">📚 I currently studying and learning  </h3>
+<h3 align="center">📚 I'm currently studying and learning  </h3>
 <p align="center">
 
 <img src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"  />
