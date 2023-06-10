@@ -25,15 +25,14 @@ Currently working as a Frontend Software Engineer for a US company based in New 
 <img src="https://img.shields.io/badge/-Typescript-61DAFB?logo=typescript&logoColor=white&style=flat-square" />
 <img src="https://img.shields.io/badge/-NextJS-lightgrey" />
 <img src="https://img.shields.io/badge/-RxJS-A020F0?style=flat-square&logo=Redux&logoColor=white"  />
+<img src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"  />
 </p>
-
 
 <h3 align="center">📚 I'm currently studying and learning  </h3>
-<p align="center">
 
-<img src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"  />
-<img src="https://img.shields.io/badge/-Reactnative-61DAFB?logo=react&logoColor=white&style=flat-square" />
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/-Reactnative-61DAFB?logo=react&logoColor=white&style=flat-square" />
+</div>
 
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus13f&layout=compact"/> 
