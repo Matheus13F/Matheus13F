@@ -32,7 +32,7 @@ Currently working as a Frontend Software Engineer for a US company based in New 
 <p align="center">
 
 <img src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"  />
-<img src="https://img.shields.io/badge/-React-Native-61DAFB?logo=react&logoColor=white&style=flat-square" />
+<img src="https://img.shields.io/badge/-Reactnative-61DAFB?logo=react&logoColor=white&style=flat-square" />
 </p>
 
 <p align="center">
