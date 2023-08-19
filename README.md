@@ -8,7 +8,7 @@
 </p>
 
 
-Jedi salute, welcome to my **Github profile!**
+Jedi salute, welcome to my **Github profile!** <br>
 I'm a Frontend Software Engineer, graduated in Information System by the University of Sorocaba and living in Brazil 👽<br>
 Passionate of the best web & mobile development technologies,
 I'm belive that coding is more than just writting coding lines, coding is about fixing problems! Which is why I seek to develop and improve my Hard and Soft Skills, and by consequence help people, I am open to challenges for my evolution as a Developer.
