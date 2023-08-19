@@ -3,12 +3,12 @@
 <p align="center">
 <a href="mailto:matheus-goes13@hotmail.com"> <img src="https://img.shields.io/badge/-Email-D14836.svg?logo=gmail&style=plastic&logoColor=white" /> </a>
 <a href="https://www.linkedin.com/in/matheus13f/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-007acc.svg?logo=linkedin&style=plastic"></a>
-<a href="https://www.instagram.com/oi_matthew/" target="blank"><img src="https://img.shields.io/badge/-Instagram-F73776.svg?logo=instagram&style=plastic&logoColor=white"></a>
+<a href="https://www.instagram.com/math_codes/" target="blank"><img src="https://img.shields.io/badge/-Instagram-F73776.svg?logo=instagram&style=plastic&logoColor=white"></a>
  <a href="https://app.rocketseat.com.br/me/matheus-ferreira-1578571009" target="blank"><img src="https://img.shields.io/badge/-Rocketseat-41356b?style=flat-square&logo=Rocketseat&logoColor=white"></a>
 </p>
 
 
-Jedi salute, Welcome to my **Github profile!**
+Jedi salute, welcome to my **Github profile!**
 I'm a Frontend Software Engineer, graduated in Information System by the University of Sorocaba and living in Brazil 👽<br>
 Passionate of the best web & mobile development technologies,
 I'm belive that coding is more than just writting coding lines, coding is about fixing problems! Which is why I seek to develop and improve my Hard and Soft Skills, and by consequence help people, I am open to challenges for my evolution as a Developer.
