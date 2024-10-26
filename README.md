@@ -3,7 +3,7 @@
 <p align="center">
 <a href="mailto:matheus-goes13@hotmail.com"> <img src="https://img.shields.io/badge/-Email-D14836.svg?logo=gmail&style=plastic&logoColor=white" /> </a>
 <a href="https://www.linkedin.com/in/matheus13f/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-007acc.svg?logo=linkedin&style=plastic"></a>
-<a href="https://www.instagram.com/math_codes/" target="blank"><img src="https://img.shields.io/badge/-Instagram-F73776.svg?logo=instagram&style=plastic&logoColor=white"></a>
+<a href="https://www.instagram.com/goesdev/" target="blank"><img src="https://img.shields.io/badge/-Instagram-F73776.svg?logo=instagram&style=plastic&logoColor=white"></a>
  <a href="https://app.rocketseat.com.br/me/matheus-ferreira-1578571009" target="blank"><img src="https://img.shields.io/badge/-Rocketseat-41356b?style=flat-square&logo=Rocketseat&logoColor=white"></a>
 </p>
 
