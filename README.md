@@ -33,8 +33,8 @@ Currently working as a Frontend Software Engineer for a US company based in New 
 
 <div align="center">
   <img src="https://img.shields.io/badge/-Python-eba417?logo=python&logoColor=white&style=flat-square" />
+<img src="https://img.shields.io/badge/artificial-int" />
 </div>
-
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus13f&layout=compact"/> 
 
