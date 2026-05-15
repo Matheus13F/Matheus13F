@@ -25,11 +25,9 @@
 
 ```
 
-## I'm Matheus Goes!
+# I'm Matheus Goes!
 
 </div>
-
----
 
 ## 🚀 About Me
 
@@ -38,8 +36,6 @@
 - ⚡ Focused on clean UI, performance and AI
 - 🧠 Passionate about AI and modern web technologies
 - 📚 Always learning and building something, check out my [portfolio](https://matheusgoes.dev)
-
----
 
 ## 🛠 Tech Stack
 <div align="center">
