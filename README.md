@@ -1,87 +1,113 @@
-# Hi there 👋 <br> I'm Matheus
+<div align="center">
+
+```txt
+███╗   ███╗ █████╗ ████████╗██╗  ██╗███████╗██╗   ██╗███████╗
+████╗ ████║██╔══██╗╚══██╔══╝██║  ██║██╔════╝██║   ██║██╔════╝
+██╔████╔██║███████║   ██║   ███████║█████╗  ██║   ██║███████╗
+██║╚██╔╝██║██╔══██║   ██║   ██╔══██║██╔══╝  ██║   ██║╚════██║
+██║ ╚═╝ ██║██║  ██║   ██║   ██║  ██║███████╗╚██████╔╝███████║
+╚═╝     ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚══════╝
+```
+
+# 👋 Hey, I'm Matheus
+
+### Frontend Software Engineer from Brazil 🇧🇷
+
+Building modern web experiences with  
+**React • Next.js • TypeScript • Node.js**
 
 <p align="center">
-<a href="mailto:matheus-goes13@hotmail.com"> <img src="https://img.shields.io/badge/-Email-D14836.svg?logo=gmail&style=plastic&logoColor=white" /> </a>
-<a href="https://www.linkedin.com/in/matheus13f/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-007acc.svg?logo=linkedin&style=plastic"></a>
-<a href="https://www.instagram.com/goesdev/" target="blank"><img src="https://img.shields.io/badge/-Instagram-F73776.svg?logo=instagram&style=plastic&logoColor=white"></a>
+  <a href="mailto:matheus-goes13@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/matheus13f/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://www.instagram.com/goesdev/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </p>
 
-
-Jedi salute, welcome to my **Github profile!** <br>
-I'm a Frontend Software Engineer, graduated in Information System by the University of Sorocaba and living in Brazil 👽<br>
-Passionate of the best web & mobile development technologies,
-I'm belive that coding is more than just writting coding lines, coding is about fixing problems! Which is why I seek to develop and improve my Hard and Soft Skills, and by consequence help people, I am open to challenges for my evolution as a Developer.
-Currently working as a Frontend Software Engineer for a US company based in New York.
+</div>
 
 ---
-<h3 align="center">🚀 Programming languages and tools</h3>
+
+## 🚀 About Me
+
+```ts
+const matheus = {
+  role: "Frontend Software Engineer",
+  location: "Brazil",
+  company: "US company based in New York",
+  stack: [
+    "React",
+    "Next.js",
+    "TypeScript",
+    "Node.js",
+    "Firebase",
+    "Tailwind CSS"
+  ],
+  currentlyLearning: [
+    "Go",
+    "Python",
+    "Grafana",
+    "System Design"
+  ],
+  philosophy:
+    "Coding is not just about writing code. It's about solving problems."
+}
+```
+
+- 🎓 Graduated in Information Systems
+- 💻 Passionate about modern web development
+- ⚡ Focused on performance, UX and clean architecture
+- 📚 Always learning new technologies
+- 🌎 Working remotely with international teams
+
+---
+
+# 🛠 Tech Stack
+
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="30" alt="eslint logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="30" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="30" alt="slack logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="30" alt="socketio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="30" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://static-00.iconduck.com/assets.00/ant-design-icon-2048x2046-dl3neb73.png" height="30" alt="ubuntu logo"  /> 
+
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,sass,html,css" />
+
+### Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
+
+### Tools & Workflow
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,ubuntu,jest,figma,storybook,jira,slack" />
+
+### Currently Learning
+<img src="https://skillicons.dev/icons?i=go,python,grafana" />
+
 </div>
 
-<h3 align="center">📚 I'm currently studying and learning  </h3>
+---
+
+# 📊 Github Stats
+
 <div align="center">
- 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="30" alt="grafana logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=matheus13f&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus13f&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </div>
 
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus13f&layout=compact"/> 
+---
 
+# ⚔️ Dev Quote
 
+> “First, solve the problem. Then, write the code.”
+
+---
+
+<div align="center">
+
+### 👨‍💻 Thanks for visiting my profile
+
+</div>
