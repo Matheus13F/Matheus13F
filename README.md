@@ -7,14 +7,21 @@
 ██║╚██╔╝██║██╔══██║   ██║   ██╔══██║██╔══╝  ██║   ██║╚════██║
 ██║ ╚═╝ ██║██║  ██║   ██║   ██║  ██║███████╗╚██████╔╝███████║
 ╚═╝     ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚══════╝
+
+ ██████╗  ██████╗ ███████╗███████╗
+██╔════╝ ██╔═══██╗██╔════╝██╔════╝
+██║  ███╗██║   ██║█████╗  ███████╗
+██║   ██║██║   ██║██╔══╝  ╚════██║
+╚██████╔╝╚██████╔╝███████╗███████║
+ ╚═════╝  ╚═════╝ ╚══════╝╚══════╝
 ```
 
-# 👋 Hey, I'm Matheus
+# 👋 JEDI SALUTE!
 
 ### Frontend Software Engineer from Brazil 🇧🇷
 
-Building modern web experiences with  
-**React • Next.js • TypeScript • Node.js**
+Building modern web applications with  
+**React • Next.js • TypeScript • AI Tools**
 
 <p align="center">
   <a href="mailto:matheus-goes13@hotmail.com">
@@ -36,78 +43,43 @@ Building modern web experiences with
 
 ## 🚀 About Me
 
-```ts
-const matheus = {
-  role: "Frontend Software Engineer",
-  location: "Brazil",
-  company: "US company based in New York",
-  stack: [
-    "React",
-    "Next.js",
-    "TypeScript",
-    "Node.js",
-    "Firebase",
-    "Tailwind CSS"
-  ],
-  currentlyLearning: [
-    "Go",
-    "Python",
-    "Grafana",
-    "System Design"
-  ],
-  philosophy:
-    "Coding is not just about writing code. It's about solving problems."
-}
-```
-
-- 🎓 Graduated in Information Systems
-- 💻 Passionate about modern web development
-- ⚡ Focused on performance, UX and clean architecture
-- 📚 Always learning new technologies
+- 💻 Frontend Software Engineer
 - 🌎 Working remotely with international teams
+- ⚡ Focused on clean UI, performance and DX
+- 🧠 Passionate about AI and modern web technologies
+- 📚 Always learning and building
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
 <div align="center">
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,sass,html,css" />
-
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,sass" />
 ### Backend & Database
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
-
+### AI & Automation
+<img src="https://skillicons.dev/icons?i=python,tensorflow" />
 ### Tools & Workflow
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,ubuntu,jest,figma" />
-
-### Currently Learning
-<img src="https://skillicons.dev/icons?i=go,python,grafana" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,jest,figma,vscode" />
 
 </div>
 
 ---
 
-# 📊 Github Stats
+## 📊 Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=matheus13f&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus13f&layout=compact&theme=tokyonight&hide_border=true"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus13f&layout=compact"/> 
 
 </div>
 
 ---
 
-# ⚔️ Dev Quote
+<div align="center">
 
 > “First, solve the problem. Then, write the code.”
-
----
-
-<div align="center">
-
-### 👨‍💻 Thanks for visiting my profile
 
 </div>
