@@ -79,7 +79,7 @@ const matheus = {
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
 
 ### Tools & Workflow
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,ubuntu,jest,figma,storybook,jira,slack" />
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,ubuntu,jest,figma" />
 
 ### Currently Learning
 <img src="https://skillicons.dev/icons?i=go,python,grafana" />
