@@ -57,10 +57,13 @@ Building modern web applications with
 
 ### Frontend
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,sass" />
+
 ### Backend & Database
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
+
 ### AI & Automation
 <img src="https://skillicons.dev/icons?i=python,tensorflow" />
+
 ### Tools & Workflow
 <img src="https://skillicons.dev/icons?i=git,github,linux,jest,figma,vscode" />
 
